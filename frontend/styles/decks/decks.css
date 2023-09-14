@@ -1,0 +1,8 @@
+.decks{
+  background-color: var(--secondary-color);
+  width: 100%;
+}
+
+.decks__search{
+  width: 50%;
+}

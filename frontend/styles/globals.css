@@ -1,0 +1,10 @@
+:root {
+  --main-bg-color: black;
+  --primary-color: #8E4EC6;
+  --secondary-color: aqua;
+}
+
+body {
+  background-color: var(--main-bg-color);
+  color: var(--primary-color);
+}
